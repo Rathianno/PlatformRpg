@@ -1,8 +1,8 @@
 Hello! this is just a practice for making a game in Unity.
 
-Currently, the goals are simple. Make a character that's able to move around and push objects, I want to give him a simple attack and maybe make some damage numbers appear, but it's been tough, so it might take a little bit
+Currently, the goals are simple. Make a character that's able to move around and interact with objects, I want to give him a simple attack and maybe make some damage numbers appear, but it's been tough, so it might take a little bit
 
-[Software Demo Video](http://youtube.com)
+[Software Demo Video](https://www.youtube.com/watch?v=u0KzoOEMmEs)
 
 # Development Environment
 
